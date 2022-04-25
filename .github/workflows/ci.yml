@@ -6,7 +6,7 @@ on:
 jobs:
   buildx:
     runs-on: ubuntu-latest
-    environment: null
+    environment: new
     steps:
       -
         name: Checkout
